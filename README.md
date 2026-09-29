@@ -1,4 +1,4 @@
-# Lumen Self Custody Wallet
+# Sheesha Self Custody Wallet
 
 > A self-custody wallet engineered for uncompromising security and lightning-fast trading.
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-Lumen Wallet is a non-custodial crypto wallet built for traders who demand both ironclad security and execution speed. Your keys never leave your device, and your trades never wait in line. Designed from the ground up for active on-chain traders, Lumen combines hardware-grade key management with a high-performance trading engine optimized for sub-second order routing.
+Sheesha Wallet is a non-custodial crypto wallet built for traders who demand both ironclad security and execution speed. Your keys never leave your device, and your trades never wait in line. Designed from the ground up for active on-chain traders, Sheesha combines hardware-grade key management with a high-performance trading engine optimized for sub-second order routing.
 
 **You own your keys. You own your trades. No middlemen, no custodians, no compromises.**
 
@@ -19,7 +19,7 @@ Lumen Wallet is a non-custodial crypto wallet built for traders who demand both 
 ## Key Features
 
 ### 🔐 Security First
-- **True self-custody** — Private keys are generated and stored locally; Lumen servers never see them
+- **True self-custody** — Private keys are generated and stored locally; Sheesha servers never see them
 - **Hardware wallet support** — Native integration with Ledger, Trezor, and other major hardware devices
 - **Encrypted local storage** — AES-256 encryption with a user-defined passphrase
 - **Biometric unlock** — Face ID, Touch ID, and Android biometric authentication
@@ -53,10 +53,10 @@ Lumen Wallet is a non-custodial crypto wallet built for traders who demand both 
 
 ### Desktop (macOS, Windows, Linux)
 
-Download the latest release from [Lumen.io/download](https://Lumen.io/download), or build from source:
+Download the latest release from [Sheesha.io/download](https://Sheesha.io/download), or build from source:
 
 ```bash
-git clone https://github.com/Lumen/NART-wallet.git
+git clone https://github.com/Sheesha/NART-wallet.git
 cd NART-wallet
 npm install
 npm run build
@@ -65,7 +65,7 @@ npm start
 
 ### Mobile
 - [iOS App Store](https://apps.apple.com/app/NART-finance)
-- [Google Play](https://play.google.com/store/apps/details?id=io.Lumen)
+- [Google Play](https://play.google.com/store/apps/details?id=io.Sheesha)
 
 ### Browser Extension
 - [Chrome Web Store](https://chrome.google.com/webstore)
@@ -75,9 +75,9 @@ npm start
 
 ## Quick Start
 
-1. **Install** Lumen on your platform of choice.
+1. **Install** Sheesha on your platform of choice.
 2. **Create a wallet** or import an existing one using a seed phrase or hardware device.
-3. **Back up your seed phrase** — write it down and store it offline. Lumen cannot recover it for you.
+3. **Back up your seed phrase** — write it down and store it offline. Sheesha cannot recover it for you.
 4. **Fund your wallet** by sending crypto to your address or bridging from another chain.
 5. **Start trading** — connect to any dApp or use the built-in swap interface.
 
@@ -85,7 +85,7 @@ npm start
 
 ## Architecture
 
-Lumen is built on a modular, security-focused architecture:
+Sheesha is built on a modular, security-focused architecture:
 
 ```
 ┌─────────────────────────────────────────────────┐
@@ -108,14 +108,14 @@ Lumen is built on a modular, security-focused architecture:
 
 ## Security
 
-Security is the foundation of Lumen, not an afterthought.
+Security is the foundation of Sheesha, not an afterthought.
 
 - **Audits** — Audited by leading security firms; full reports available in [`/audits`](./audits)
 - **Bug bounty** — Up to $250,000 for critical vulnerabilities. See [SECURITY.md](./SECURITY.md)
 - **Reproducible builds** — Verify that the binary you run matches the public source code
 - **No telemetry by default** — Opt-in only, never tied to wallet addresses
 
-If you discover a security vulnerability, please email **security@Lumen.io** rather than opening a public issue.
+If you discover a security vulnerability, please email **security@Sheesha.io** rather than opening a public issue.
 
 ---
 
@@ -150,23 +150,23 @@ npm run dev
 
 ## License
 
-Lumen is released under the [MIT License](./LICENSE).
+Sheesha is released under the [MIT License](./LICENSE).
 
 ---
 
 ## Disclaimer
 
-Lumen is non-custodial software. You are solely responsible for the security of your seed phrase and private keys. Lost keys cannot be recovered. Cryptocurrency trading involves substantial risk; never trade more than you can afford to lose. Lumen is provided "as is" without warranty of any kind.
+Sheesha is non-custodial software. You are solely responsible for the security of your seed phrase and private keys. Lost keys cannot be recovered. Cryptocurrency trading involves substantial risk; never trade more than you can afford to lose. Sheesha is provided "as is" without warranty of any kind.
 
 ---
 
 ## Links
 
-- 🌐 Website: [Lumen.io](https://Lumen.io)
-- 📖 Docs: [docs.Lumen.io](https://docs.Lumen.io)
-- 🐦 Twitter: [@Lumen](https://twitter.com/Lumen)
-- 💬 Discord: [discord.gg/Lumen](https://discord.gg/Lumen)
-- 📧 Contact: hello@Lumen.io
+- 🌐 Website: [Sheesha.io](https://Sheesha.io)
+- 📖 Docs: [docs.Sheesha.io](https://docs.Sheesha.io)
+- 🐦 Twitter: [@Sheesha](https://twitter.com/Sheesha)
+- 💬 Discord: [discord.gg/Sheesha](https://discord.gg/Sheesha)
+- 📧 Contact: hello@Sheesha.io
 
 ---
 
